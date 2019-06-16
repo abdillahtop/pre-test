@@ -4,8 +4,7 @@ sampean aktifkan xampp setalh itu buka localhost/pre-test/nomornya
 
 atau samean pakai run php secara online 
 
-No.1 =
-![Screenshot](Pre-Test/assets/no1.JPG	)
+No.1 = ![Screenshot](Pre-Test/assets/no1.JPG	)
 
 No.2 =
 ![Screenshot](Pre-Test/assets/no2.JPG	)
